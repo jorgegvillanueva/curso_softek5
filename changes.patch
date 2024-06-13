@@ -1,0 +1,56 @@
+diff --git a/bebidas.txt b/bebidas.txt
+index 1244834..89d7919 100644
+--- a/bebidas.txt
++++ b/bebidas.txt
+@@ -1,6 +1,4 @@
+ agua
+ Cerveza
+ Tónica
+-Cambio 1
+-Cambio 2
+-Cambio 3
++Vino
+diff --git a/conservas.txt b/conservas.txt
+new file mode 100644
+index 0000000..c961e86
+--- /dev/null
++++ b/conservas.txt
+@@ -0,0 +1 @@
++Sardinas
+diff --git a/frescos_BACKUP_35455.txt b/frescos_BACKUP_35455.txt
+new file mode 100644
+index 0000000..33c2995
+--- /dev/null
++++ b/frescos_BACKUP_35455.txt
+@@ -0,0 +1,8 @@
++Pollo
++Sardinas
++Bonito
++<<<<<<< HEAD
++Bacalao
++Empanadillas
++=======
++>>>>>>> 73551af (Revert "borrado en frescos")
+diff --git a/frescos_BASE_35455.txt b/frescos_BASE_35455.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/frescos_LOCAL_35455.txt b/frescos_LOCAL_35455.txt
+new file mode 100644
+index 0000000..8170482
+--- /dev/null
++++ b/frescos_LOCAL_35455.txt
+@@ -0,0 +1,5 @@
++Pollo
++Sardinas
++Bonito
++Bacalao
++Empanadillas
+diff --git a/frescos_REMOTE_35455.txt b/frescos_REMOTE_35455.txt
+new file mode 100644
+index 0000000..6dd5692
+--- /dev/null
++++ b/frescos_REMOTE_35455.txt
+@@ -0,0 +1,3 @@
++Pollo
++Sardinas
++Bonito
