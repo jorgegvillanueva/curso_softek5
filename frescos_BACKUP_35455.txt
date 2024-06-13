@@ -1,0 +1,8 @@
+Pollo
+Sardinas
+Bonito
+<<<<<<< HEAD
+Bacalao
+Empanadillas
+=======
+>>>>>>> 73551af (Revert "borrado en frescos")
